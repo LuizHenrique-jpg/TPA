@@ -10,7 +10,7 @@ public class Exercicio3 {
 			System.out.println(i);
 }
 		else {
-			System.out.println(i+" É múltiplo de 10!");
+			System.out.println(i+" Ã‰ mÃºltiplo de 10!");
 	 }
 	}
   }
