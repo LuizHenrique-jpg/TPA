@@ -24,13 +24,13 @@ public class Exercicio4 {
 					idadeMenos = idade;
 					userMenos = i;
 				}
-			System.out.println("Usu·rio "+numUser+" idade: "+idade);
+			System.out.println("Usu√°rio "+numUser+" idade: "+idade);
 			 	numUser++;
 			 	
 		}
-			System.out.println("O mais velho È o usu·rio " +userMais+" com: "+idadeMais+" anos.");
+			System.out.println("O mais velho √© o usu√°rio " +userMais+" com: "+idadeMais+" anos.");
 			
-			System.out.println("O mais novo È o usu·rio " +userMenos+" com: "+idadeMenos+" anos.");
+			System.out.println("O mais novo √© o usu√°rio " +userMenos+" com: "+idadeMenos+" anos.");
 			
 	ler.close();
 	}
